@@ -1,0 +1,7 @@
+# Updated requirements.txt
+selenium==4.33.0
+pandas==2.3.0
+scikit-learn==1.7.0
+webdriver-manager==4.0.2
+joblib==1.5.1
+numpy==2.2.6
