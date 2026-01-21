@@ -77,7 +77,7 @@ def login_to_bdg(username, password):
     wait = WebDriverWait(driver, 15)
 
     try:
-        driver.get("https://bdggameapps.com/")
+        driver.get("https://okwin05.com/#/login")
 
         # Step 1: Click the initial "Login" button
         safe_find_click(driver, wait, By.XPATH, "//button[text()='Login']")
